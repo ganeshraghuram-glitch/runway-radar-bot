@@ -1,0 +1,1335 @@
+{
+ "A B Real Estate": {
+  "cap_bucket": "smallcap",
+  "symbol": "ABREL",
+  "url": "https://www.screener.in/company/ABREL/consolidated/"
+ },
+ "Aarti Industries": {
+  "cap_bucket": "smallcap",
+  "symbol": "AARTIIND",
+  "url": "https://www.screener.in/company/AARTIIND/consolidated/"
+ },
+ "Accent Microcell": {
+  "cap_bucket": "microcap",
+  "industry": "Pharmaceuticals",
+  "sector": "Healthcare",
+  "symbol": "ACCENTMIC",
+  "url": "https://www.screener.in/company/ACCENTMIC/"
+ },
+ "Adcounty Media.": {
+  "cap_bucket": "microcap",
+  "industry": "Web based media and service",
+  "sector": "Consumer Discretionary",
+  "symbol": "544435",
+  "url": "https://www.screener.in/company/544435/"
+ },
+ "Admach Systems": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544669",
+  "url": "https://www.screener.in/company/544669/"
+ },
+ "Aegis Logistics": {
+  "cap_bucket": "smallcap",
+  "symbol": "AEGISLOG",
+  "url": "https://www.screener.in/company/AEGISLOG/consolidated/"
+ },
+ "Afcons Infrastr.": {
+  "cap_bucket": "smallcap",
+  "symbol": "AFCONS",
+  "url": "https://www.screener.in/company/AFCONS/consolidated/"
+ },
+ "Affle 3i": {
+  "cap_bucket": "smallcap",
+  "symbol": "AFFLE",
+  "url": "https://www.screener.in/company/AFFLE/consolidated/"
+ },
+ "Agarwal Toughene": {
+  "cap_bucket": "microcap",
+  "industry": "Glass - Industrial",
+  "sector": "Industrials",
+  "symbol": "AGARWALTUF",
+  "url": "https://www.screener.in/company/AGARWALTUF/"
+ },
+ "Airfloa Rail": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544516",
+  "url": "https://www.screener.in/company/544516/"
+ },
+ "All E Tech": {
+  "cap_bucket": "microcap",
+  "industry": "Computers - Software & Consulting",
+  "sector": "Information Technology",
+  "symbol": "ALLETEC",
+  "url": "https://www.screener.in/company/ALLETEC/consolidated/"
+ },
+ "Alufluoride": {
+  "cap_bucket": "microcap",
+  "industry": "Commodity Chemicals",
+  "sector": "Commodities",
+  "symbol": "524634",
+  "url": "https://www.screener.in/company/524634/consolidated/"
+ },
+ "Amara Raja Ener.": {
+  "cap_bucket": "smallcap",
+  "symbol": "ARE&M",
+  "url": "https://www.screener.in/company/ARE&M/"
+ },
+ "Amber Enterp.": {
+  "cap_bucket": "smallcap",
+  "symbol": "AMBER",
+  "url": "https://www.screener.in/company/AMBER/consolidated/"
+ },
+ "Anand Rathi Wea.": {
+  "cap_bucket": "smallcap",
+  "symbol": "ANANDRATHI",
+  "url": "https://www.screener.in/company/ANANDRATHI/"
+ },
+ "Anant Raj": {
+  "cap_bucket": "smallcap",
+  "symbol": "ANANTRAJ",
+  "url": "https://www.screener.in/company/ANANTRAJ/consolidated/"
+ },
+ "Angel One": {
+  "cap_bucket": "smallcap",
+  "symbol": "ANGELONE",
+  "url": "https://www.screener.in/company/ANGELONE/consolidated/"
+ },
+ "Anlon Tech": {
+  "cap_bucket": "microcap",
+  "industry": "Diversified Commercial Services",
+  "sector": "Services",
+  "symbol": "ANLON",
+  "url": "https://www.screener.in/company/ANLON/"
+ },
+ "Apex Ecotech": {
+  "cap_bucket": "microcap",
+  "industry": "Water Supply & Management",
+  "sector": "Utilities",
+  "symbol": "APEXECO",
+  "url": "https://www.screener.in/company/APEXECO/"
+ },
+ "Aptus Value Hou.": {
+  "cap_bucket": "smallcap",
+  "symbol": "APTUS",
+  "url": "https://www.screener.in/company/APTUS/consolidated/"
+ },
+ "Arihant Academy": {
+  "cap_bucket": "microcap",
+  "industry": "Education",
+  "sector": "Consumer Discretionary",
+  "symbol": "ARIHANTACA",
+  "url": "https://www.screener.in/company/ARIHANTACA/"
+ },
+ "Armour Security": {
+  "cap_bucket": "microcap",
+  "industry": "Diversified Commercial Services",
+  "sector": "Services",
+  "symbol": "ARMOUR",
+  "url": "https://www.screener.in/company/ARMOUR/"
+ },
+ "Arrow Greentech": {
+  "cap_bucket": "microcap",
+  "industry": "Packaging",
+  "sector": "Industrials",
+  "symbol": "ARROWGREEN",
+  "url": "https://www.screener.in/company/ARROWGREEN/consolidated/"
+ },
+ "Associated Coat.": {
+  "cap_bucket": "microcap",
+  "industry": "Other Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544183",
+  "url": "https://www.screener.in/company/544183/"
+ },
+ "Aster DM Quality": {
+  "cap_bucket": "smallcap",
+  "symbol": "ASTERDM",
+  "url": "https://www.screener.in/company/ASTERDM/consolidated/"
+ },
+ "Ather Energy": {
+  "cap_bucket": "smallcap",
+  "symbol": "ATHERENERG",
+  "url": "https://www.screener.in/company/ATHERENERG/"
+ },
+ "Avana Electrosystems": {
+  "cap_bucket": "microcap",
+  "industry": "Heavy Electrical Equipment",
+  "sector": "Industrials",
+  "symbol": "AVANA",
+  "url": "https://www.screener.in/company/AVANA/"
+ },
+ "B.A.G. Converge.": {
+  "cap_bucket": "microcap",
+  "industry": "Digital Entertainment",
+  "sector": "Consumer Discretionary",
+  "symbol": "BAGDIGITAL",
+  "url": "https://www.screener.in/company/BAGDIGITAL/"
+ },
+ "BEML Ltd": {
+  "cap_bucket": "smallcap",
+  "symbol": "BEML",
+  "url": "https://www.screener.in/company/BEML/consolidated/"
+ },
+ "BLS Internat.": {
+  "cap_bucket": "smallcap",
+  "symbol": "BLS",
+  "url": "https://www.screener.in/company/BLS/consolidated/"
+ },
+ "Bandhan Bank": {
+  "cap_bucket": "smallcap",
+  "symbol": "BANDHANBNK",
+  "url": "https://www.screener.in/company/BANDHANBNK/"
+ },
+ "Bemco Hydraulics": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "522650",
+  "url": "https://www.screener.in/company/522650/consolidated/"
+ },
+ "Bhadora Indust.": {
+  "cap_bucket": "microcap",
+  "industry": "Cables - Electricals",
+  "sector": "Industrials",
+  "symbol": "BHADORA",
+  "url": "https://www.screener.in/company/BHADORA/"
+ },
+ "Borana Weaves": {
+  "cap_bucket": "microcap",
+  "industry": "Other Textile Products",
+  "sector": "Consumer Discretionary",
+  "symbol": "BORANA",
+  "url": "https://www.screener.in/company/BORANA/"
+ },
+ "Brainbees Solut.": {
+  "cap_bucket": "smallcap",
+  "symbol": "FIRSTCRY",
+  "url": "https://www.screener.in/company/FIRSTCRY/consolidated/"
+ },
+ "Brigade Enterpr.": {
+  "cap_bucket": "smallcap",
+  "symbol": "BRIGADE",
+  "url": "https://www.screener.in/company/BRIGADE/consolidated/"
+ },
+ "C D S L": {
+  "cap_bucket": "smallcap",
+  "symbol": "CDSL",
+  "url": "https://www.screener.in/company/CDSL/consolidated/"
+ },
+ "CESC": {
+  "cap_bucket": "smallcap",
+  "symbol": "CESC",
+  "url": "https://www.screener.in/company/CESC/consolidated/"
+ },
+ "California Soft.": {
+  "cap_bucket": "microcap",
+  "industry": "Computers - Software & Consulting",
+  "sector": "Information Technology",
+  "symbol": "CALSOFT",
+  "url": "https://www.screener.in/company/CALSOFT/consolidated/"
+ },
+ "Cams Services": {
+  "cap_bucket": "smallcap",
+  "symbol": "CAMS",
+  "url": "https://www.screener.in/company/CAMS/"
+ },
+ "Canarys Automa.": {
+  "cap_bucket": "microcap",
+  "industry": "Computers - Software & Consulting",
+  "sector": "Information Technology",
+  "symbol": "CANARYS",
+  "url": "https://www.screener.in/company/CANARYS/consolidated/"
+ },
+ "Capri Global": {
+  "cap_bucket": "smallcap",
+  "symbol": "CGCL",
+  "url": "https://www.screener.in/company/CGCL/consolidated/"
+ },
+ "Career Point Edu": {
+  "cap_bucket": "microcap",
+  "industry": "Education",
+  "sector": "Consumer Discretionary",
+  "symbol": "CPEDU",
+  "url": "https://www.screener.in/company/CPEDU/"
+ },
+ "Cash UR Drive": {
+  "cap_bucket": "microcap",
+  "industry": "Advertising & Media Agencies",
+  "sector": "Consumer Discretionary",
+  "symbol": "CUDML",
+  "url": "https://www.screener.in/company/CUDML/"
+ },
+ "Castrol India": {
+  "cap_bucket": "smallcap",
+  "symbol": "CASTROLIND",
+  "url": "https://www.screener.in/company/CASTROLIND/"
+ },
+ "Chambal Fert.": {
+  "cap_bucket": "smallcap",
+  "symbol": "CHAMBLFERT",
+  "url": "https://www.screener.in/company/CHAMBLFERT/consolidated/"
+ },
+ "Chatterbox Tech": {
+  "cap_bucket": "microcap",
+  "industry": "Advertising & Media Agencies",
+  "sector": "Consumer Discretionary",
+  "symbol": "544546",
+  "url": "https://www.screener.in/company/544546/"
+ },
+ "Chemkart India": {
+  "cap_bucket": "microcap",
+  "industry": "Other Food Products",
+  "sector": "Fast Moving Consumer Goods",
+  "symbol": "544442",
+  "url": "https://www.screener.in/company/544442/consolidated/"
+ },
+ "Chola Financial": {
+  "cap_bucket": "smallcap",
+  "symbol": "CHOLAHLDNG",
+  "url": "https://www.screener.in/company/CHOLAHLDNG/consolidated/"
+ },
+ "City Union Bank": {
+  "cap_bucket": "smallcap",
+  "symbol": "CUB",
+  "url": "https://www.screener.in/company/CUB/"
+ },
+ "Cohance Life": {
+  "cap_bucket": "smallcap",
+  "symbol": "COHANCE",
+  "url": "https://www.screener.in/company/COHANCE/consolidated/"
+ },
+ "Connplex Cinemas": {
+  "cap_bucket": "microcap",
+  "industry": "Entertainment",
+  "sector": "Consumer Discretionary",
+  "symbol": "CONNPLEX",
+  "url": "https://www.screener.in/company/CONNPLEX/"
+ },
+ "CreditAcc. Gram.": {
+  "cap_bucket": "smallcap",
+  "symbol": "CREDITACC",
+  "url": "https://www.screener.in/company/CREDITACC/"
+ },
+ "Crompton Gr. Con": {
+  "cap_bucket": "smallcap",
+  "symbol": "CROMPTON",
+  "url": "https://www.screener.in/company/CROMPTON/"
+ },
+ "Cryogenic OGS": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544440",
+  "url": "https://www.screener.in/company/544440/"
+ },
+ "Curis Lifescien.": {
+  "cap_bucket": "microcap",
+  "industry": "Pharmaceuticals",
+  "sector": "Healthcare",
+  "symbol": "CURIS",
+  "url": "https://www.screener.in/company/CURIS/"
+ },
+ "Danish Power": {
+  "cap_bucket": "microcap",
+  "industry": "Heavy Electrical Equipment",
+  "sector": "Industrials",
+  "symbol": "DANISH",
+  "url": "https://www.screener.in/company/DANISH/"
+ },
+ "Danlaw Tech.": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "532329",
+  "url": "https://www.screener.in/company/532329/"
+ },
+ "Data Pattern": {
+  "cap_bucket": "smallcap",
+  "symbol": "DATAPATTNS",
+  "url": "https://www.screener.in/company/DATAPATTNS/"
+ },
+ "Deepak Fertilis.": {
+  "cap_bucket": "smallcap",
+  "symbol": "DEEPAKFERT",
+  "url": "https://www.screener.in/company/DEEPAKFERT/consolidated/"
+ },
+ "Delhivery": {
+  "cap_bucket": "smallcap",
+  "symbol": "DELHIVERY",
+  "url": "https://www.screener.in/company/DELHIVERY/consolidated/"
+ },
+ "Desco Infra.": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "544387",
+  "url": "https://www.screener.in/company/544387/"
+ },
+ "Devyani Intl.": {
+  "cap_bucket": "smallcap",
+  "symbol": "DEVYANI",
+  "url": "https://www.screener.in/company/DEVYANI/consolidated/"
+ },
+ "Disa India": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "DISAQ",
+  "url": "https://www.screener.in/company/DISAQ/consolidated/"
+ },
+ "Dr Lal Pathlabs": {
+  "cap_bucket": "smallcap",
+  "symbol": "LALPATHLAB",
+  "url": "https://www.screener.in/company/LALPATHLAB/consolidated/"
+ },
+ "Eco Recyc.": {
+  "cap_bucket": "microcap",
+  "industry": "Waste Management",
+  "sector": "Utilities",
+  "symbol": "530643",
+  "url": "https://www.screener.in/company/530643/consolidated/"
+ },
+ "Ecos (India)": {
+  "cap_bucket": "microcap",
+  "industry": "Road Transport",
+  "sector": "Services",
+  "symbol": "ECOSMOBLTY",
+  "url": "https://www.screener.in/company/ECOSMOBLTY/consolidated/"
+ },
+ "Envirotech Sys.": {
+  "cap_bucket": "microcap",
+  "industry": "Other Industrial Products",
+  "sector": "Industrials",
+  "symbol": "ENVIRO",
+  "url": "https://www.screener.in/company/ENVIRO/"
+ },
+ "Firstsour.Solu.": {
+  "cap_bucket": "smallcap",
+  "symbol": "FSL",
+  "url": "https://www.screener.in/company/FSL/consolidated/"
+ },
+ "Five-Star Bus.Fi": {
+  "cap_bucket": "smallcap",
+  "symbol": "FIVESTAR",
+  "url": "https://www.screener.in/company/FIVESTAR/"
+ },
+ "Flywings Simula.": {
+  "cap_bucket": "microcap",
+  "industry": "Education",
+  "sector": "Consumer Discretionary",
+  "symbol": "FWSTC",
+  "url": "https://www.screener.in/company/FWSTC/"
+ },
+ "Force Motors": {
+  "cap_bucket": "smallcap",
+  "symbol": "FORCEMOT",
+  "url": "https://www.screener.in/company/FORCEMOT/consolidated/"
+ },
+ "Frontier Springs": {
+  "cap_bucket": "microcap",
+  "industry": "Auto Components & Equipments",
+  "sector": "Consumer Discretionary",
+  "symbol": "FRONTSP",
+  "url": "https://www.screener.in/company/FRONTSP/"
+ },
+ "G M D C": {
+  "cap_bucket": "smallcap",
+  "symbol": "GMDCLTD",
+  "url": "https://www.screener.in/company/GMDCLTD/consolidated/"
+ },
+ "GE Shipping Co": {
+  "cap_bucket": "smallcap",
+  "symbol": "GESHIP",
+  "url": "https://www.screener.in/company/GESHIP/consolidated/"
+ },
+ "Garden Reach Sh.": {
+  "cap_bucket": "smallcap",
+  "symbol": "GRSE",
+  "url": "https://www.screener.in/company/GRSE/"
+ },
+ "Garuda Cons": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "GARUDA",
+  "url": "https://www.screener.in/company/GARUDA/"
+ },
+ "Gaudium IVF": {
+  "cap_bucket": "microcap",
+  "industry": "Healthcare Service Provider",
+  "sector": "Healthcare",
+  "symbol": "GAUDIUMIVF",
+  "url": "https://www.screener.in/company/GAUDIUMIVF/consolidated/"
+ },
+ "Gland Pharma": {
+  "cap_bucket": "smallcap",
+  "symbol": "GLAND",
+  "url": "https://www.screener.in/company/GLAND/consolidated/"
+ },
+ "Godawari Power": {
+  "cap_bucket": "smallcap",
+  "symbol": "GPIL",
+  "url": "https://www.screener.in/company/GPIL/consolidated/"
+ },
+ "Greenleaf Envi.": {
+  "cap_bucket": "microcap",
+  "industry": "Waste Management",
+  "sector": "Utilities",
+  "symbol": "GREENLEAF",
+  "url": "https://www.screener.in/company/GREENLEAF/"
+ },
+ "HBL Engineering": {
+  "cap_bucket": "smallcap",
+  "symbol": "HBLENGINE",
+  "url": "https://www.screener.in/company/HBLENGINE/consolidated/"
+ },
+ "Harikanta Overseas": {
+  "cap_bucket": "microcap",
+  "industry": "Other Textile Products",
+  "sector": "Consumer Discretionary",
+  "symbol": "544769",
+  "url": "https://www.screener.in/company/544769/"
+ },
+ "Highness Microelectronics": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544741",
+  "url": "https://www.screener.in/company/544741/"
+ },
+ "Himadri Special": {
+  "cap_bucket": "smallcap",
+  "symbol": "HSCL",
+  "url": "https://www.screener.in/company/HSCL/consolidated/"
+ },
+ "Hindustan Copper": {
+  "cap_bucket": "smallcap",
+  "symbol": "HINDCOPPER",
+  "url": "https://www.screener.in/company/HINDCOPPER/"
+ },
+ "Hoac Foods": {
+  "cap_bucket": "microcap",
+  "industry": "Other Food Products",
+  "sector": "Fast Moving Consumer Goods",
+  "symbol": "HOACFOODS",
+  "url": "https://www.screener.in/company/HOACFOODS/"
+ },
+ "IDBI Bank": {
+  "cap_bucket": "smallcap",
+  "symbol": "IDBI",
+  "url": "https://www.screener.in/company/IDBI/consolidated/"
+ },
+ "IFCI": {
+  "cap_bucket": "smallcap",
+  "symbol": "IFCI",
+  "url": "https://www.screener.in/company/IFCI/consolidated/"
+ },
+ "IIFL Finance": {
+  "cap_bucket": "smallcap",
+  "symbol": "IIFL",
+  "url": "https://www.screener.in/company/IIFL/consolidated/"
+ },
+ "ITI": {
+  "cap_bucket": "smallcap",
+  "symbol": "ITI",
+  "url": "https://www.screener.in/company/ITI/"
+ },
+ "Icodex Publish.": {
+  "cap_bucket": "microcap",
+  "industry": "IT Enabled Services",
+  "sector": "Information Technology",
+  "symbol": "544483",
+  "url": "https://www.screener.in/company/544483/"
+ },
+ "Indo SMC": {
+  "cap_bucket": "microcap",
+  "industry": "Other Electrical Equipment",
+  "sector": "Industrials",
+  "symbol": "544681",
+  "url": "https://www.screener.in/company/544681/"
+ },
+ "Indraprastha Gas": {
+  "cap_bucket": "smallcap",
+  "symbol": "IGL",
+  "url": "https://www.screener.in/company/IGL/consolidated/"
+ },
+ "Influx Health.": {
+  "cap_bucket": "microcap",
+  "industry": "Pharmaceuticals",
+  "sector": "Healthcare",
+  "symbol": "INFLUX",
+  "url": "https://www.screener.in/company/INFLUX/"
+ },
+ "Infollion Resea.": {
+  "cap_bucket": "microcap",
+  "industry": "Diversified Commercial Services",
+  "sector": "Services",
+  "symbol": "INFOLLION",
+  "url": "https://www.screener.in/company/INFOLLION/"
+ },
+ "Inox Wind": {
+  "cap_bucket": "smallcap",
+  "symbol": "INOXWIND",
+  "url": "https://www.screener.in/company/INOXWIND/consolidated/"
+ },
+ "Inventurus Knowl": {
+  "cap_bucket": "smallcap",
+  "symbol": "IKS",
+  "url": "https://www.screener.in/company/IKS/consolidated/"
+ },
+ "Ircon Intl.": {
+  "cap_bucket": "smallcap",
+  "symbol": "IRCON",
+  "url": "https://www.screener.in/company/IRCON/consolidated/"
+ },
+ "JBM Auto": {
+  "cap_bucket": "smallcap",
+  "symbol": "JBMA",
+  "url": "https://www.screener.in/company/JBMA/consolidated/"
+ },
+ "JM Financial": {
+  "cap_bucket": "smallcap",
+  "symbol": "JMFINANCIL",
+  "url": "https://www.screener.in/company/JMFINANCIL/consolidated/"
+ },
+ "JSW Cement": {
+  "cap_bucket": "smallcap",
+  "symbol": "JSWCEMENT",
+  "url": "https://www.screener.in/company/JSWCEMENT/consolidated/"
+ },
+ "Jaro Institute": {
+  "cap_bucket": "microcap",
+  "industry": "E-Learning",
+  "sector": "Consumer Discretionary",
+  "symbol": "JARO",
+  "url": "https://www.screener.in/company/JARO/"
+ },
+ "Jivial Industrie": {
+  "cap_bucket": "microcap",
+  "industry": "Aluminium",
+  "sector": "Commodities",
+  "symbol": "544805",
+  "url": "https://www.screener.in/company/544805/"
+ },
+ "Jyoti CNC Auto.": {
+  "cap_bucket": "smallcap",
+  "symbol": "JYOTICNC",
+  "url": "https://www.screener.in/company/JYOTICNC/consolidated/"
+ },
+ "KEC International": {
+  "cap_bucket": "smallcap",
+  "symbol": "KEC",
+  "url": "https://www.screener.in/company/KEC/consolidated/"
+ },
+ "KFin Technolog.": {
+  "cap_bucket": "smallcap",
+  "symbol": "KFINTECH",
+  "url": "https://www.screener.in/company/KFINTECH/consolidated/"
+ },
+ "Kalyani Cast-Tec": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544023",
+  "url": "https://www.screener.in/company/544023/"
+ },
+ "Kartik Invest.": {
+  "cap_bucket": "microcap",
+  "industry": "Other Financial Services",
+  "sector": "Financial Services",
+  "symbol": "501151",
+  "url": "https://www.screener.in/company/501151/"
+ },
+ "Karur Vysya Bank": {
+  "cap_bucket": "smallcap",
+  "symbol": "KARURVYSYA",
+  "url": "https://www.screener.in/company/KARURVYSYA/"
+ },
+ "Kaynes Tech": {
+  "cap_bucket": "smallcap",
+  "symbol": "KAYNES",
+  "url": "https://www.screener.in/company/KAYNES/consolidated/"
+ },
+ "Kaytex Fabrics": {
+  "cap_bucket": "microcap",
+  "industry": "Garments & Apparels",
+  "sector": "Consumer Discretionary",
+  "symbol": "KAYTEX",
+  "url": "https://www.screener.in/company/KAYTEX/"
+ },
+ "Krishna Defence": {
+  "cap_bucket": "microcap",
+  "industry": "Aerospace & Defense",
+  "sector": "Industrials",
+  "symbol": "KRISHNADEF",
+  "url": "https://www.screener.in/company/KRISHNADEF/"
+ },
+ "Ksolves India": {
+  "cap_bucket": "microcap",
+  "industry": "Computers - Software & Consulting",
+  "sector": "Information Technology",
+  "symbol": "KSOLVES",
+  "url": "https://www.screener.in/company/KSOLVES/"
+ },
+ "L. T. Elevator": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544518",
+  "url": "https://www.screener.in/company/544518/consolidated/"
+ },
+ "Liotech Ind.": {
+  "cap_bucket": "microcap",
+  "industry": "Other Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544796",
+  "url": "https://www.screener.in/company/544796/"
+ },
+ "M R P L": {
+  "cap_bucket": "smallcap",
+  "symbol": "MRPL",
+  "url": "https://www.screener.in/company/MRPL/consolidated/"
+ },
+ "Macpower CNC": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "MACPOWER",
+  "url": "https://www.screener.in/company/MACPOWER/"
+ },
+ "Mahalaxmi Rubtec": {
+  "cap_bucket": "microcap",
+  "industry": "Other Textile Products",
+  "sector": "Consumer Discretionary",
+  "symbol": "MHLXMIRU",
+  "url": "https://www.screener.in/company/MHLXMIRU/"
+ },
+ "Mahendra Realtor": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "MRIL",
+  "url": "https://www.screener.in/company/MRIL/"
+ },
+ "Manappuram Fin.": {
+  "cap_bucket": "smallcap",
+  "symbol": "MANAPPURAM",
+  "url": "https://www.screener.in/company/MANAPPURAM/consolidated/"
+ },
+ "Manav Infra": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "MANAV",
+  "url": "https://www.screener.in/company/MANAV/"
+ },
+ "Manoj Jewellers": {
+  "cap_bucket": "microcap",
+  "industry": "Gems, Jewellery And Watches",
+  "sector": "Consumer Discretionary",
+  "symbol": "544400",
+  "url": "https://www.screener.in/company/544400/"
+ },
+ "Marc Technocrats": {
+  "cap_bucket": "microcap",
+  "industry": "Consulting Services",
+  "sector": "Services",
+  "symbol": "MARC",
+  "url": "https://www.screener.in/company/MARC/"
+ },
+ "Master Component": {
+  "cap_bucket": "microcap",
+  "industry": "Plastic Products - Industrial",
+  "sector": "Industrials",
+  "symbol": "MASTER",
+  "url": "https://www.screener.in/company/MASTER/"
+ },
+ "Matrix Geo Sol.": {
+  "cap_bucket": "microcap",
+  "industry": "IT Enabled Services",
+  "sector": "Information Technology",
+  "symbol": "MGSL",
+  "url": "https://www.screener.in/company/MGSL/"
+ },
+ "Meesho": {
+  "cap_bucket": "smallcap",
+  "symbol": "MEESHO",
+  "url": "https://www.screener.in/company/MEESHO/consolidated/"
+ },
+ "Modi's Navnirman": {
+  "cap_bucket": "microcap",
+  "industry": "Residential, Commercial Projects",
+  "sector": "Consumer Discretionary",
+  "symbol": "MODIS",
+  "url": "https://www.screener.in/company/MODIS/consolidated/"
+ },
+ "Monarch Surve.": {
+  "cap_bucket": "microcap",
+  "industry": "Consulting Services",
+  "sector": "Services",
+  "symbol": "544453",
+  "url": "https://www.screener.in/company/544453/"
+ },
+ "Msafe Equipments": {
+  "cap_bucket": "microcap",
+  "industry": "Aluminium",
+  "sector": "Commodities",
+  "symbol": "544695",
+  "url": "https://www.screener.in/company/544695/"
+ },
+ "My Mudra Fin.": {
+  "cap_bucket": "microcap",
+  "industry": "Other Financial Services",
+  "sector": "Financial Services",
+  "symbol": "MYMUDRA",
+  "url": "https://www.screener.in/company/MYMUDRA/"
+ },
+ "NBCC": {
+  "cap_bucket": "smallcap",
+  "symbol": "NBCC",
+  "url": "https://www.screener.in/company/NBCC/consolidated/"
+ },
+ "Naapbooks": {
+  "cap_bucket": "microcap",
+  "industry": "Computers - Software & Consulting",
+  "sector": "Information Technology",
+  "symbol": "543351",
+  "url": "https://www.screener.in/company/543351/"
+ },
+ "Narayana Hrudaya": {
+  "cap_bucket": "smallcap",
+  "symbol": "NH",
+  "url": "https://www.screener.in/company/NH/consolidated/"
+ },
+ "Natco Pharma": {
+  "cap_bucket": "smallcap",
+  "symbol": "NATCOPHARM",
+  "url": "https://www.screener.in/company/NATCOPHARM/consolidated/"
+ },
+ "Navin Fluo.Intl.": {
+  "cap_bucket": "smallcap",
+  "symbol": "NAVINFLUOR",
+  "url": "https://www.screener.in/company/NAVINFLUOR/consolidated/"
+ },
+ "Neetu Yoshi": {
+  "cap_bucket": "microcap",
+  "industry": "Castings & Forgings",
+  "sector": "Industrials",
+  "symbol": "544434",
+  "url": "https://www.screener.in/company/544434/consolidated/"
+ },
+ "Neochem Bio": {
+  "cap_bucket": "microcap",
+  "industry": "Specialty Chemicals",
+  "sector": "Commodities",
+  "symbol": "NEOCHEM",
+  "url": "https://www.screener.in/company/NEOCHEM/"
+ },
+ "Netweb Technol.": {
+  "cap_bucket": "smallcap",
+  "symbol": "NETWEB",
+  "url": "https://www.screener.in/company/NETWEB/"
+ },
+ "Neuland Labs.": {
+  "cap_bucket": "smallcap",
+  "symbol": "NEULANDLAB",
+  "url": "https://www.screener.in/company/NEULANDLAB/consolidated/"
+ },
+ "Nuvama Wealth": {
+  "cap_bucket": "smallcap",
+  "symbol": "NUVAMA",
+  "url": "https://www.screener.in/company/NUVAMA/consolidated/"
+ },
+ "OSEL Devices": {
+  "cap_bucket": "microcap",
+  "industry": "Medical Equipment & Supplies",
+  "sector": "Healthcare",
+  "symbol": "OSELDEVICE",
+  "url": "https://www.screener.in/company/OSELDEVICE/"
+ },
+ "Ola Electric": {
+  "cap_bucket": "smallcap",
+  "symbol": "OLAELEC",
+  "url": "https://www.screener.in/company/OLAELEC/consolidated/"
+ },
+ "One Global Serv": {
+  "cap_bucket": "microcap",
+  "industry": "Healthcare Service Provider",
+  "sector": "Healthcare",
+  "symbol": "514330",
+  "url": "https://www.screener.in/company/514330/"
+ },
+ "Optivalue Tek": {
+  "cap_bucket": "microcap",
+  "industry": "IT Enabled Services",
+  "sector": "Information Technology",
+  "symbol": "OPTIVALUE",
+  "url": "https://www.screener.in/company/OPTIVALUE/"
+ },
+ "P.E. Analytics": {
+  "cap_bucket": "microcap",
+  "industry": "Real Estate related services",
+  "sector": "Consumer Discretionary",
+  "symbol": "PROPEQUITY",
+  "url": "https://www.screener.in/company/PROPEQUITY/consolidated/"
+ },
+ "PG Electroplast": {
+  "cap_bucket": "smallcap",
+  "symbol": "PGEL",
+  "url": "https://www.screener.in/company/PGEL/consolidated/"
+ },
+ "PNB Housing": {
+  "cap_bucket": "smallcap",
+  "symbol": "PNBHOUSING",
+  "url": "https://www.screener.in/company/PNBHOUSING/"
+ },
+ "PNGS Gargi FJ": {
+  "cap_bucket": "microcap",
+  "industry": "Gems, Jewellery And Watches",
+  "sector": "Consumer Discretionary",
+  "symbol": "543709",
+  "url": "https://www.screener.in/company/543709/"
+ },
+ "Paradeep Pari.": {
+  "cap_bucket": "microcap",
+  "industry": "Logistics Solution Provider",
+  "sector": "Services",
+  "symbol": "544383",
+  "url": "https://www.screener.in/company/544383/"
+ },
+ "Party Cruisers": {
+  "cap_bucket": "microcap",
+  "industry": "Other Consumer Services",
+  "sector": "Consumer Discretionary",
+  "symbol": "PARTYCRUS",
+  "url": "https://www.screener.in/company/PARTYCRUS/"
+ },
+ "Physicswallah": {
+  "cap_bucket": "smallcap",
+  "symbol": "PWL",
+  "url": "https://www.screener.in/company/PWL/consolidated/"
+ },
+ "Pine Labs": {
+  "cap_bucket": "smallcap",
+  "symbol": "PINELABS",
+  "url": "https://www.screener.in/company/PINELABS/consolidated/"
+ },
+ "Piramal Finance.": {
+  "cap_bucket": "smallcap",
+  "symbol": "PIRAMALFIN",
+  "url": "https://www.screener.in/company/PIRAMALFIN/consolidated/"
+ },
+ "Piramal Pharma": {
+  "cap_bucket": "smallcap",
+  "symbol": "PPLPHARMA",
+  "url": "https://www.screener.in/company/PPLPHARMA/consolidated/"
+ },
+ "Poonawalla Fin": {
+  "cap_bucket": "smallcap",
+  "symbol": "POONAWALLA",
+  "url": "https://www.screener.in/company/POONAWALLA/consolidated/"
+ },
+ "Praruh Tech": {
+  "cap_bucket": "microcap",
+  "industry": "IT Enabled Services",
+  "sector": "Information Technology",
+  "symbol": "544538",
+  "url": "https://www.screener.in/company/544538/"
+ },
+ "RBL Bank": {
+  "cap_bucket": "smallcap",
+  "symbol": "RBLBANK",
+  "url": "https://www.screener.in/company/RBLBANK/"
+ },
+ "Rachit Prints": {
+  "cap_bucket": "microcap",
+  "industry": "Other Textile Products",
+  "sector": "Consumer Discretionary",
+  "symbol": "544503",
+  "url": "https://www.screener.in/company/544503/"
+ },
+ "Radhika Jeweltec": {
+  "cap_bucket": "microcap",
+  "industry": "Gems, Jewellery And Watches",
+  "sector": "Consumer Discretionary",
+  "symbol": "RADHIKAJWE",
+  "url": "https://www.screener.in/company/RADHIKAJWE/"
+ },
+ "Rajoo Engineers": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "RAJOOENG",
+  "url": "https://www.screener.in/company/RAJOOENG/consolidated/"
+ },
+ "Redington": {
+  "cap_bucket": "smallcap",
+  "symbol": "REDINGTON",
+  "url": "https://www.screener.in/company/REDINGTON/consolidated/"
+ },
+ "Reliance Power": {
+  "cap_bucket": "smallcap",
+  "symbol": "RPOWER",
+  "url": "https://www.screener.in/company/RPOWER/consolidated/"
+ },
+ "Repono": {
+  "cap_bucket": "microcap",
+  "industry": "Oil Storage & Transportation",
+  "sector": "Energy",
+  "symbol": "544463",
+  "url": "https://www.screener.in/company/544463/"
+ },
+ "Riddhi Display": {
+  "cap_bucket": "microcap",
+  "industry": "Houseware",
+  "sector": "Consumer Discretionary",
+  "symbol": "544640",
+  "url": "https://www.screener.in/company/544640/"
+ },
+ "SKP Securities": {
+  "cap_bucket": "microcap",
+  "industry": "Stockbroking & Allied",
+  "sector": "Financial Services",
+  "symbol": "531169",
+  "url": "https://www.screener.in/company/531169/"
+ },
+ "SRM Contractors": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "SRM",
+  "url": "https://www.screener.in/company/SRM/consolidated/"
+ },
+ "Sacheerome": {
+  "cap_bucket": "microcap",
+  "industry": "Specialty Chemicals",
+  "sector": "Commodities",
+  "symbol": "SACHEEROME",
+  "url": "https://www.screener.in/company/SACHEEROME/"
+ },
+ "Sagility": {
+  "cap_bucket": "smallcap",
+  "symbol": "SAGILITY",
+  "url": "https://www.screener.in/company/SAGILITY/consolidated/"
+ },
+ "Sai Life": {
+  "cap_bucket": "smallcap",
+  "symbol": "SAILIFE",
+  "url": "https://www.screener.in/company/SAILIFE/consolidated/"
+ },
+ "Samay Project": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "SAMAY",
+  "url": "https://www.screener.in/company/SAMAY/"
+ },
+ "Sarda Energy": {
+  "cap_bucket": "smallcap",
+  "symbol": "SARDAEN",
+  "url": "https://www.screener.in/company/SARDAEN/consolidated/"
+ },
+ "Sathlokhar Sys.": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "SSEGL",
+  "url": "https://www.screener.in/company/SSEGL/"
+ },
+ "Sattva Eng.": {
+  "cap_bucket": "microcap",
+  "industry": "Water Supply & Management",
+  "sector": "Utilities",
+  "symbol": "SATTVAENGG",
+  "url": "https://www.screener.in/company/SATTVAENGG/"
+ },
+ "Sawaliya Food": {
+  "cap_bucket": "microcap",
+  "industry": "Other Agricultural Products",
+  "sector": "Fast Moving Consumer Goods",
+  "symbol": "SAWALIYA",
+  "url": "https://www.screener.in/company/SAWALIYA/"
+ },
+ "Shining Tools": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544607",
+  "url": "https://www.screener.in/company/544607/"
+ },
+ "Siddhika Coatins": {
+  "cap_bucket": "microcap",
+  "industry": "Paints",
+  "sector": "Consumer Discretionary",
+  "symbol": "SIDDHIKA",
+  "url": "https://www.screener.in/company/SIDDHIKA/"
+ },
+ "Sigma Solve": {
+  "cap_bucket": "microcap",
+  "industry": "IT Enabled Services",
+  "sector": "Information Technology",
+  "symbol": "SIGMA",
+  "url": "https://www.screener.in/company/SIGMA/consolidated/"
+ },
+ "SignatureGlobal": {
+  "cap_bucket": "smallcap",
+  "symbol": "SIGNATURE",
+  "url": "https://www.screener.in/company/SIGNATURE/consolidated/"
+ },
+ "Snehaa Organics": {
+  "cap_bucket": "microcap",
+  "industry": "Specialty Chemicals",
+  "sector": "Commodities",
+  "symbol": "SNEHAA",
+  "url": "https://www.screener.in/company/SNEHAA/"
+ },
+ "Sobhagya Mercant": {
+  "cap_bucket": "microcap",
+  "industry": "Diversified Commercial Services",
+  "sector": "Services",
+  "symbol": "512014",
+  "url": "https://www.screener.in/company/512014/"
+ },
+ "Sodhani Capital": {
+  "cap_bucket": "microcap",
+  "industry": "Financial Products Distributor",
+  "sector": "Financial Services",
+  "symbol": "544560",
+  "url": "https://www.screener.in/company/544560/"
+ },
+ "Solarworld Ene.": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "SOLARWORLD",
+  "url": "https://www.screener.in/company/SOLARWORLD/consolidated/"
+ },
+ "Sona BLW Precis.": {
+  "cap_bucket": "smallcap",
+  "symbol": "SONACOMS",
+  "url": "https://www.screener.in/company/SONACOMS/"
+ },
+ "Srinibas Pradhan": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "SPCON",
+  "url": "https://www.screener.in/company/SPCON/consolidated/"
+ },
+ "Srivari Spices &": {
+  "cap_bucket": "microcap",
+  "industry": "Other Food Products",
+  "sector": "Fast Moving Consumer Goods",
+  "symbol": "SSFL",
+  "url": "https://www.screener.in/company/SSFL/"
+ },
+ "Star Health Insu": {
+  "cap_bucket": "smallcap",
+  "symbol": "STARHEALTH",
+  "url": "https://www.screener.in/company/STARHEALTH/"
+ },
+ "Supreme Power": {
+  "cap_bucket": "microcap",
+  "industry": "Other Electrical Equipment",
+  "sector": "Industrials",
+  "symbol": "SUPREMEPWR",
+  "url": "https://www.screener.in/company/SUPREMEPWR/"
+ },
+ "Swan Corp": {
+  "cap_bucket": "smallcap",
+  "symbol": "SWANCORP",
+  "url": "https://www.screener.in/company/SWANCORP/consolidated/"
+ },
+ "Syngene Intl.": {
+  "cap_bucket": "smallcap",
+  "symbol": "SYNGENE",
+  "url": "https://www.screener.in/company/SYNGENE/consolidated/"
+ },
+ "Systango Tech": {
+  "cap_bucket": "microcap",
+  "industry": "Computers - Software & Consulting",
+  "sector": "Information Technology",
+  "symbol": "SYSTANGO",
+  "url": "https://www.screener.in/company/SYSTANGO/consolidated/"
+ },
+ "Tata Chemicals": {
+  "cap_bucket": "smallcap",
+  "symbol": "TATACHEM",
+  "url": "https://www.screener.in/company/TATACHEM/consolidated/"
+ },
+ "Tata Technolog.": {
+  "cap_bucket": "smallcap",
+  "symbol": "TATATECH",
+  "url": "https://www.screener.in/company/TATATECH/consolidated/"
+ },
+ "Taurian MPS": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "TAURIAN",
+  "url": "https://www.screener.in/company/TAURIAN/"
+ },
+ "TechD Cybersec.": {
+  "cap_bucket": "microcap",
+  "industry": "IT Enabled Services",
+  "sector": "Information Technology",
+  "symbol": "TECHD",
+  "url": "https://www.screener.in/company/TECHD/"
+ },
+ "Techknowgreen": {
+  "cap_bucket": "microcap",
+  "industry": "Consulting Services",
+  "sector": "Services",
+  "symbol": "543991",
+  "url": "https://www.screener.in/company/543991/"
+ },
+ "Tenneco Clean": {
+  "cap_bucket": "smallcap",
+  "symbol": "TENNIND",
+  "url": "https://www.screener.in/company/TENNIND/consolidated/"
+ },
+ "The Ramco Cement": {
+  "cap_bucket": "smallcap",
+  "symbol": "RAMCOCEM",
+  "url": "https://www.screener.in/company/RAMCOCEM/consolidated/"
+ },
+ "Thomas Scott": {
+  "cap_bucket": "microcap",
+  "industry": "Garments & Apparels",
+  "sector": "Consumer Discretionary",
+  "symbol": "THOMASCOTT",
+  "url": "https://www.screener.in/company/THOMASCOTT/"
+ },
+ "Toss The Coin": {
+  "cap_bucket": "microcap",
+  "industry": "Advertising & Media Agencies",
+  "sector": "Consumer Discretionary",
+  "symbol": "544303",
+  "url": "https://www.screener.in/company/544303/"
+ },
+ "Triveni Turbine": {
+  "cap_bucket": "smallcap",
+  "symbol": "TRITURBINE",
+  "url": "https://www.screener.in/company/TRITURBINE/consolidated/"
+ },
+ "True Colors": {
+  "cap_bucket": "microcap",
+  "industry": "Industrial Products",
+  "sector": "Industrials",
+  "symbol": "544531",
+  "url": "https://www.screener.in/company/544531/"
+ },
+ "Unified Data": {
+  "cap_bucket": "microcap",
+  "industry": "IT Enabled Services",
+  "sector": "Information Technology",
+  "symbol": "544406",
+  "url": "https://www.screener.in/company/544406/"
+ },
+ "Unihealth Hosp": {
+  "cap_bucket": "microcap",
+  "industry": "Hospital",
+  "sector": "Healthcare",
+  "symbol": "UNIHEALTH",
+  "url": "https://www.screener.in/company/UNIHEALTH/consolidated/"
+ },
+ "Univastu India": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "UNIVASTU",
+  "url": "https://www.screener.in/company/UNIVASTU/consolidated/"
+ },
+ "Urban Company": {
+  "cap_bucket": "smallcap",
+  "symbol": "URBANCO",
+  "url": "https://www.screener.in/company/URBANCO/consolidated/"
+ },
+ "Valplast Technol": {
+  "cap_bucket": "microcap",
+  "industry": "Civil Construction",
+  "sector": "Industrials",
+  "symbol": "544565",
+  "url": "https://www.screener.in/company/544565/"
+ },
+ "Vashishtha Lux.": {
+  "cap_bucket": "microcap",
+  "industry": "Garments & Apparels",
+  "sector": "Consumer Discretionary",
+  "symbol": "544508",
+  "url": "https://www.screener.in/company/544508/"
+ },
+ "Vigor Plast": {
+  "cap_bucket": "microcap",
+  "industry": "Plastic Products - Industrial",
+  "sector": "Industrials",
+  "symbol": "VIGOR",
+  "url": "https://www.screener.in/company/VIGOR/"
+ },
+ "Vinsys IT Serv.": {
+  "cap_bucket": "microcap",
+  "industry": "Education",
+  "sector": "Consumer Discretionary",
+  "symbol": "VINSYS",
+  "url": "https://www.screener.in/company/VINSYS/consolidated/"
+ },
+ "Virtual Galaxy": {
+  "cap_bucket": "microcap",
+  "industry": "Software Products",
+  "sector": "Information Technology",
+  "symbol": "VGINFOTECH",
+  "url": "https://www.screener.in/company/VGINFOTECH/"
+ },
+ "Vivid Electromech": {
+  "cap_bucket": "microcap",
+  "industry": "Other Electrical Equipment",
+  "sector": "Industrials",
+  "symbol": "VIVIDEL",
+  "url": "https://www.screener.in/company/VIVIDEL/"
+ },
+ "WOL 3D India": {
+  "cap_bucket": "microcap",
+  "industry": "Other Industrial Products",
+  "sector": "Industrials",
+  "symbol": "WOL3D",
+  "url": "https://www.screener.in/company/WOL3D/"
+ },
+ "Wealth First Por": {
+  "cap_bucket": "microcap",
+  "industry": "Other Financial Services",
+  "sector": "Financial Services",
+  "symbol": "WEALTH",
+  "url": "https://www.screener.in/company/WEALTH/consolidated/"
+ },
+ "Welspun Corp": {
+  "cap_bucket": "smallcap",
+  "symbol": "WELCORP",
+  "url": "https://www.screener.in/company/WELCORP/consolidated/"
+ },
+ "Whirlpool India": {
+  "cap_bucket": "smallcap",
+  "symbol": "WHIRLPOOL",
+  "url": "https://www.screener.in/company/WHIRLPOOL/consolidated/"
+ },
+ "Wockhardt": {
+  "cap_bucket": "smallcap",
+  "symbol": "WOCKPHARMA",
+  "url": "https://www.screener.in/company/WOCKPHARMA/consolidated/"
+ },
+ "Workmates Core2": {
+  "cap_bucket": "microcap",
+  "industry": "Computers - Software & Consulting",
+  "sector": "Information Technology",
+  "symbol": "544610",
+  "url": "https://www.screener.in/company/544610/"
+ },
+ "Zensar Tech.": {
+  "cap_bucket": "smallcap",
+  "symbol": "ZENSARTECH",
+  "url": "https://www.screener.in/company/ZENSARTECH/consolidated/"
+ }
+}

@@ -1,0 +1,34 @@
+name: Runway Radar Weekly Financials Rebuild
+
+on:
+  schedule:
+    # 02:30 UTC Monday = 08:00 IST Monday. Cash flow statements don't change
+    # daily, so this refreshes the cache weekly rather than every run.
+    - cron: "30 2 * * 1"
+  workflow_dispatch: # manual "Run workflow" button, for testing
+
+permissions:
+  contents: write # needed to commit the refreshed financials cache back
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Rebuild financials cache
+        run: python3 build_financials.py
+
+      - name: Commit financials cache
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/financials.json
+          git diff --staged --quiet || git commit -m "financials refresh $(date -u +%Y-%m-%d)"
+          git push

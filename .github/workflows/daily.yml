@@ -1,0 +1,27 @@
+name: Runway Radar Daily Screen
+
+on:
+  schedule:
+    # 12:15 UTC = 17:45 IST, Mon-Fri. Runs after daily-smallcap-ticker (17:00
+    # IST) so the day's price action has settled. GitHub may delay scheduled
+    # runs 5-20 min.
+    - cron: "15 12 * * 1-5"
+  workflow_dispatch: # manual "Run workflow" button, for testing
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run screen
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 ticker.py
